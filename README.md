@@ -1,6 +1,8 @@
 # Mancala AI
 
-Mancala AI using minimax algorithm with alpha beta pruning. This algorithm is used to determine the best possible next move that can be performed.
+Mancala AI using minimax algorithm with alpha beta pruning. The algorithm is used to determine the best possible next move that can be performed.
+
+This bot was designed for the Hackerrank challenge (https://www.hackerrank.com/challenges/mancala6?hr_b=1)
 
 **Heuristics**
 
